@@ -1,0 +1,5 @@
+**/packages/*
+.vs/
+# Visual Studio Code
+.vscode/
+**/App_Data/
