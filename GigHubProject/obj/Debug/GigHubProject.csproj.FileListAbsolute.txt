@@ -87,3 +87,6 @@ C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\obj\Debug\GigHubProject
 C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\obj\Debug\GigHubProject.Migrations.CreateGigTable.resources
 C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\obj\Debug\GigHubProject.Migrations.OverrideConventionsForGigsAndGenre.resources
 C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\obj\Debug\GigHubProject.Migrations.PopulateGenresTable.resources
+C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\bin\Microsoft.Owin.Security.Cookies.4.0.1.0.Fakes.dll
+C:\Users\pedro\source\repos\GigHubSolution\GigHubProject\bin\Microsoft.Owin.Security.Cookies.4.0.1.0.Fakes.xml
